@@ -12,7 +12,7 @@ An intelligent, APIâ€‘first production coordination system that automates orderâ
 - Deployed on Google Cloud Run
 
 ## Live Demo
-[https://your-cloud-run-url](https://your-cloud-run-url)
+https://jobshop-api-606568210560.asia-south1.run.app/
 
 ## Tech Stack
 - FastAPI, Uvicorn
